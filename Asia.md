@@ -1,3 +1,4 @@
 Seoul
-Jeju
+soju
 Tokyo
+sake
